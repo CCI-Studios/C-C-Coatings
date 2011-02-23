@@ -21,7 +21,11 @@
     </files>
  
     <positions>
-    	
+		<position>left</position>
+		<position>right</position>
+		<position>content</position>
+		<position>menu</position>
+		<position>footer</position>
     </positions>
  
     <params>
