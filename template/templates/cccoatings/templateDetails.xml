@@ -6,7 +6,7 @@
     <author>Darren Murray</author>
     <authorEmail>dmurray@ccistudios.com</authorEmail>
     <authorUrl>http://www.ccistudios.com</authorUrl>
-    <copyright>Copyright 2011 - C&amp:C Coatings</copyright>
+    <copyright>Copyright 2011 - C&amp;C Coatings</copyright>
     <license>GNU v3</license>
     <description>
         <![CDATA[
@@ -15,6 +15,7 @@
  
     <files>
 		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
 		<folder>css</folder>
         <folder>html</folder>
         <folder>images</folder>
@@ -24,7 +25,7 @@
 		<position>left</position>
 		<position>right</position>
 		<position>content</position>
-		<position>menu</position>
+		<position>bottom</position>
 		<position>footer</position>
     </positions>
  

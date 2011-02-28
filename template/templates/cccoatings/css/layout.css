@@ -4,6 +4,7 @@ html, body { height: 100%; }
 body {
 	background: url(../images/bg.jpeg) repeat;
 	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
 }
 
 a {
@@ -11,18 +12,46 @@ a {
 	text-decoration: none;
 }
 
+h1 {
+	background-color: black;
+}
+
 #wrapper {
-	background-color: red;
-	margin: 0 auto;
-	position: relative;
-	height: auto;
-	width: 804px;
+	background-color: url(../images/border.gif) repeat;
+	width: 800px;
+	margin: 0  auto;
+	height: 400px;
+	padding: 
+}
+
+#top {
+	
 }
 
 #left {
-	background: url(../images/logo.jpeg) no-repeat;
-	margin: 0  auto;
-	height: 100%;
-	width: 804px;
+	float: left;
 }
 
+#left img {
+	display: block;
+}
+
+#right {
+	float: right;
+}
+
+#right img {
+	display: block;
+}
+
+#component {
+	
+}
+
+#bottom {
+	
+}
+
+#footer {
+	
+}
