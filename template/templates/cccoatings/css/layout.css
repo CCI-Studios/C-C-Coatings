@@ -14,14 +14,22 @@ a {
 
 h1 {
 	background-color: black;
+	font-style: Helvetica; /* fixme */
+	color: white;
+	font-size: 30px;
+	margin: -28px -16px;
+	padding: 16px;
+}
+
+.clear{
+	clear: both;
 }
 
 #wrapper {
-	background-color: url(../images/border.gif) repeat;
+	background: url(../images/border.gif);
 	width: 800px;
 	margin: 0  auto;
-	height: 400px;
-	padding: 
+	padding: 0 10px 10px 10px;
 }
 
 #top {
@@ -41,11 +49,12 @@ h1 {
 }
 
 #right img {
-	display: block;
 }
 
 #component {
-	
+	background-color: white;
+	text-align: justify;
+	padding: 28px 16px;
 }
 
 #bottom {

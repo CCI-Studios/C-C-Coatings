@@ -10,21 +10,22 @@
 
 <body>
 	<div id="wrapper">
-
 		<div id="top">
 			<div id="left">
 				<jdoc:include type="modules" name="left" style="xhtml"/>
-			</div>
+			</div><!-- end left -->
 			<div id="right">
 				<jdoc:include type="modules" name="right" style="xhtml"/>
-			</div>
-		</div>
-		<div id="component"></div>
+			</div><!-- end right -->
+			<div class="clear"></div>
+		</div><!-- end top -->
+		<div id="component">
+				<jdoc:include type="component" />
+		</div><!-- End Component -->
 		<div id="bottom"></div>
 		<div id="footer"></div>
-	</div>
+	</div><!-- end wrapper -->
 </body>
 </html>
 
-<div></div>
 
