@@ -24,6 +24,7 @@
     <positions>
 		<position>left</position>
 		<position>right</position>
+		<position>contact-info</position>
 		<position>content</position>
 		<position>bottom</position>
 		<position>footer</position>

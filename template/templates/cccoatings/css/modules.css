@@ -2,4 +2,35 @@
 
 }
 
+.moduletable_menu a {
+	color: white;
+	text-decoration: none;
+	line-height: 50px;
+	text-align: center;
+	width: 800px;
+}
+
+.moduletable_menu a:hover {
+	color: #8d8d8d;
+	text-decoration: underline;
+}
+
+.moduletable_menu li{
+	background: url(/images/stories/bottommenubg.png) no-repeat;
+	float: left;
+	list-style-type: disc;
+	color: white;
+	padding: 2px 2px;
+}
+
+.moduletable_menu li:first-child > .moduletable_menu li:first-child > span{
+	list-style-type: none;
+}
+
+.moduletable_menu
+
+
+
+
+
 
