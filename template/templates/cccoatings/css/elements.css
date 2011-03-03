@@ -1,0 +1,36 @@
+html, body { height: 100%; }
+
+body {
+	background: url(../images/bg.jpeg) repeat;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin: 0;
+}
+
+a {
+	color:white;
+	text-decoration: none;
+}
+
+/* HEADERS */
+
+h1 {
+	background-color: black;
+	border-top: 3px solid white;
+	border-bottom: 1px solid white;
+	font-family: "Adobe Song Std"; /* FIX ME - original is Candara */
+	color: white;
+	font-size: 38px;
+	margin: -14px -16px 28px;
+	padding: 0px 15px;
+	line-height: 150%;
+}
+
+h2, h3, h4, h5, h6 {
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+}
+h2 { font-size: 26px; }
+h3 { font-size: 18px; font-style: normal; }
+h4, h5, h6 { font-size: 13px; }

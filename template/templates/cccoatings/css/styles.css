@@ -1,0 +1,15 @@
+/* STYLES */
+
+.clear{
+	clear: both;
+}
+
+.fl{
+	float: left;
+}
+
+.footer {
+	font-size: 10px;
+	float: right;
+	color: white;
+}
