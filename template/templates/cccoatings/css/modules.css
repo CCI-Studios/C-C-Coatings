@@ -1,12 +1,11 @@
 .moduletable_menu {	
-	background: url(/images/stories/bottommenubg.png) no-repeat;	
-	border-top: 12px solid #7b0100;
 	padding: 18px;
 }
 
 .moduletable_menu ul {
-	list-style: none;
+	list-style-type: disc;
 	text-align: center;
+	margin: 0;
 }
 
 .moduletable_menu a {
@@ -20,11 +19,14 @@
 }
 
 .moduletable_menu li {
-	width: 800px;
-	display: inline;
-	margin: 0px;
+	float: left;
+	list-style: disc inside;
+	margin: 0 0 0 10px;
 	color: white;
-	padding: 0px;
+	padding-left: 0;
+}
+.moduletable_menu li:first-child { 
+	padding-left: 0;
 }
 
 .moduletable_menu li:first-child > {

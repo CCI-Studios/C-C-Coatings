@@ -1,0 +1,10 @@
+table.inputs {
+	background: #E9E4E6;
+	border-collapse: separate;
+	border-spacing: 3px;
+	margin: 1em 0;
+}
+table.inputs td { 
+	background: white;
+	padding: 2px 5px;
+}

@@ -1,0 +1,8 @@
+.important{
+	color: red;
+}
+
+ul.bold {
+	font-weight: bold;
+	list-style: none;
+}

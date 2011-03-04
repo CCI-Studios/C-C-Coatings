@@ -32,13 +32,12 @@
 		
 		<div id="bottom">
 			<jdoc:include type="modules" name="bottom" style="xhtml"/>
+			<div class="clear"></div>
 		</div>
 		
 		<div id="footer">
-			<div class="footer">
-				Site By
-				<a href="http://www.ccistudios.com" target="_blank">CCI Studios</a>
-			</div>
+			<div class="fr"> Site By <a href="http://www.ccistudios.com" target="_blank">CCI Studios</a></div>
+			<div class="fl"> &copy; Copyright 2011 C&amp;C Coatings</div>
 		</div>
 	</div><!-- end wrapper -->
 </body>

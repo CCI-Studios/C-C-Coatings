@@ -7,9 +7,16 @@
 .fl{
 	float: left;
 }
+.fr { float: right; }
 
-.footer {
-	font-size: 10px;
-	float: right;
-	color: white;
+.indentbig {
+	text-indent: 235px;
+}
+
+.indentsmall {
+	text-indent: 150px;
+}
+
+.indentmini {
+	text-indent: 50px;
 }

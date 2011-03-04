@@ -1,10 +1,10 @@
 /*STRUCTURE*/
 
 #wrapper {
-	background: url(../images/border.gif);
+	background: #1e1e1e;
 	width: 800px;
-	margin: 0 auto;
-	padding: 0 10px 10px 10px;
+	margin: 0 auto 10px;
+	padding: 0 10px 10px 15px;
 }
 
 #top {
@@ -29,6 +29,7 @@
 	padding: 14px 16px;
 	border-bottom: 8px solid white;
 	position: relative;
+	line-height: 16px;
 }
 
 #contact-info {
@@ -41,11 +42,14 @@
 }
 
 #bottom {
-
+	background: green url(/images/stories/bottommenubg.png) no-repeat;	
+	height: 50px; /* fixme */
 }
 
 #footer {
-
+	color: white;
+	font-size: 10px;
+	padding: 5px 0 0;
 }
 
 

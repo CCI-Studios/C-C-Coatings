@@ -21,7 +21,7 @@ h1 {
 	font-family: "Adobe Song Std"; /* FIX ME - original is Candara */
 	color: white;
 	font-size: 38px;
-	margin: -14px -16px 28px;
+	margin: -14px -16px 16px;
 	padding: 0px 15px;
 	line-height: 150%;
 }
@@ -31,6 +31,9 @@ h2, h3, h4, h5, h6 {
 	font-style: italic;
 	font-weight: bold;
 }
-h2 { font-size: 26px; }
-h3 { font-size: 18px; font-style: normal; }
-h4, h5, h6 { font-size: 13px; }
+h2 { font-size: 26px; margin: 24px 0px 30px; }
+h3 { font-size: 21px; font-style: normal; margin: 15px 0px;}
+h4 { font-size: 18px;}
+h5, h6 { font-size: 13px; margin: 15px 0px 0px;}
+
+
