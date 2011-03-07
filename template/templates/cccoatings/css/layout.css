@@ -4,7 +4,7 @@
 	background: #1e1e1e;
 	width: 800px;
 	margin: 0 auto 10px;
-	padding: 0 10px 10px 15px;
+	padding: 0 10px 15px;
 }
 
 #top {
@@ -26,8 +26,7 @@
 #component {
 	background-color: white;
 	text-align: justify;
-	padding: 14px 16px;
-	border-bottom: 8px solid white;
+	padding: 14px 16px 8px;
 	position: relative;
 	line-height: 16px;
 }
@@ -38,12 +37,11 @@
 	position: absolute;
 	top: 16px;
 	right: 13px;
-	line-height: 125%;
 }
 
 #bottom {
-	background: green url(/images/stories/bottommenubg.png) no-repeat;	
-	height: 50px; /* fixme */
+	background: url(/images/stories/bottombg.jpeg) no-repeat;	
+	height: 68px; /* fixme */
 }
 
 #footer {

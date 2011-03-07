@@ -27,7 +27,7 @@
 				<jdoc:include type="component" />
 			<div id="contact-info">
 				<jdoc:include type="modules" name="contact-info" style="xhtml"/>
-			</div>		
+			</div>	
 		</div><!-- End Component -->
 		
 		<div id="bottom">

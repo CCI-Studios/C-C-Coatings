@@ -1,22 +1,9 @@
 /* STYLES */
 
-.clear{
-	clear: both;
-}
+.clear{ clear: both; height: 0px; }
 
-.fl{
-	float: left;
-}
-.fr { float: right; }
+.fl{ float: left;}
 
-.indentbig {
-	text-indent: 235px;
-}
+.fr { float: right;}
 
-.indentsmall {
-	text-indent: 150px;
-}
-
-.indentmini {
-	text-indent: 50px;
-}
+.black { color: black;}
