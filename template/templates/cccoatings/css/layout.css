@@ -4,7 +4,7 @@
 	background: #1e1e1e;
 	width: 800px;
 	margin: 0 auto 10px;
-	padding: 0 10px 15px;
+	padding: 0 10px 10px;
 }
 
 #top {
@@ -29,6 +29,7 @@
 	padding: 14px 16px 8px;
 	position: relative;
 	line-height: 16px;
+	zoom: 1;
 }
 
 #contact-info {
@@ -46,8 +47,6 @@
 
 #footer {
 	color: white;
-	font-size: 10px;
-	padding: 5px 0 0;
 }
 
 

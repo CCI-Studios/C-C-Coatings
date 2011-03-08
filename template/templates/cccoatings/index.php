@@ -24,10 +24,11 @@
 		</div><!-- end top -->
 		
 		<div id="component">
-				<jdoc:include type="component" />
+			<jdoc:include type="component" />
 			<div id="contact-info">
 				<jdoc:include type="modules" name="contact-info" style="xhtml"/>
 			</div>	
+			<div class="clear"></div>
 		</div><!-- End Component -->
 		
 		<div id="bottom">
@@ -36,8 +37,7 @@
 		</div>
 		
 		<div id="footer">
-			<div class="fr"> Site By <a href="http://www.ccistudios.com" target="_blank">CCI Studios</a></div>
-			<div class="fl"> &copy; Copyright 2011 C&amp;C Coatings</div>
+			
 		</div>
 	</div><!-- end wrapper -->
 </body>
