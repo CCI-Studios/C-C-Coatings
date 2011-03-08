@@ -6,7 +6,7 @@
 	<jdoc:include type="head" />
 	<link rel="stylesheet" href="/templates/cccoatings/css/template.css" />
 	<script src="/templates/cccoatings/js/rollovers.js"></script>
-	
+	<link rel="shortcut icon" href="/templates/cccoatings/images/favicon.ico" />
 </head>
 
 <body>
