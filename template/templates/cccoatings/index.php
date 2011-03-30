@@ -10,6 +10,10 @@
 </head>
 
 <body>
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script> 
+	<script type="text/javascript"> _uacct = "UA-3396045-1"; urchinTracker();
+	</script>
 	<div id="wrapper">
 		<div id="top">
 			<div id="left">
